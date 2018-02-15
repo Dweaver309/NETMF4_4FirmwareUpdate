@@ -24,12 +24,12 @@ The directory tree should look like this when the environment is complete.
  c:\netmf\tools</P>
  http://netmf.github.io/downloads/build-tools.zip
 
- 6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
+6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
    https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads/6-2017-q1-update
    select the download Windows ZIP File: gcc-arm-none-eabi-6-2017-q1-update-win32-zip.zip
 
 7.Create a directory c:\net4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
- https://github.com/valoni/netmf-interpreter
+  https://github.com/valoni/netmf-interpreter
   
 ****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
 ****He was essential in my understanding this process. Thanks for your patience Valon!
