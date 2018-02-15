@@ -40,7 +40,7 @@ The directory tree should look like this when the environment is complete.
 9. Click on the GCC.STM32F411NUCLEO.bat file the build will start and should take around 10 minutes.
  The build files will be in the C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\STM32F411NUCLEO\bin directory.
 
-10. When the build is complete tinybooter.hex to tingbooter.s19 the ST DfuSe v3.0.5 File Manager will not compile the .hex file
+10. When the build is complete tinybooter.hex to tinybooter.s19 the ST DfuSe v3.0.5 File Manager will not compile the .hex file
 to a .dfu file.
  
 11. The ER_CONFIG and ER_FLASH files are located here: C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\EspruinoWifi11\bin\tinyclr.hex
@@ -50,6 +50,6 @@ to a .dfu file.
 12. To update your computer follow the Firmware update instructions.
 https://github.com/Dweaver309/UpdateFirmware
 
-Were done!
+We're done!
 
 
