@@ -11,8 +11,8 @@ The directory tree should look like this when the environment is complete.
 
 2. Install Microsoft Visual Studio 2015
  https://go.microsoft.com/fwlink/?LinkId=532606&clcid=0x409
- ***** Important Note: If you want to use Visual Basic you will need to this bug fix update
- ***** https://github.com/Dweaver309/VBFix/blob/master/README.md
+ <p>***** Important Note: If you want to use Visual Basic you will need to this bug fix update
+ ***** https://github.com/Dweaver309/VBFix/blob/master/README.md</p>
 3.  Create this directory C:\netmf
 
 4. Install the .NET Micro Framework Cryptographic Libraries to this directory C:\netmf\cryptic
