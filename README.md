@@ -18,12 +18,7 @@ The directory tree should look like this when the environment is complete.
  https://github.com/NETMF/netmf-interpreter/releases/download/NETMFCryptoLibraries/NetMFCryptoLibs.msi
 
 5. Install the binary tools to this directory C:\netmf\
- The directory will look like this after the binary tools install
- <p>c:\netmf\cryptic
- c:\netmf\bin
- c:\netmf\tools</P>
- 
- http://netmf.github.io/downloads/build-tools.zip
+  http://netmf.github.io/downloads/build-tools.zip
 
 6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
    https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads/6-2017-q1-update
@@ -32,9 +27,9 @@ The directory tree should look like this when the environment is complete.
 7.Create a directory c:\net4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
   https://github.com/valoni/netmf-interpreter
   
-****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
+<p>****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
 ****He was essential in my understanding this process. Thanks for your patience Valon!
-****This fork also contains a port for the STM32F411 NUCLEO
+****This fork also contains a port for the STM32F411 NUCLEO</p>
 
 8. Create a batch file in the c:\net4_4_0 called GCC.STM32F411NUCLEO.bat with the text below 
     <p>call setenv_gcc 4.9.3 "C:\netmf\gcc_4_9_3"
