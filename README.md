@@ -56,7 +56,7 @@ to a .dfu file.
 https://github.com/Dweaver309/UpdateFirmware
 
  13. Your new project will need a Hardware Provider class file to define the proccessor's pins.
- I have copied ValonHoti's and translated it for Visual Basic users.
+ I have copied Valon Hoti's file and translated it for Visual Basic users the files can be downloaded here.
 
 We're done!
 
