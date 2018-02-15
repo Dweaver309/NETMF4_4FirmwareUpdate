@@ -21,15 +21,15 @@ The directory tree should look like this when the environment is complete.
   http://netmf.github.io/downloads/build-tools.zip
 
 6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
-   https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads/6-2017-q1-update
-   select the download Windows ZIP File: gcc-arm-none-eabi-6-2017-q1-update-win32-zip.zip
-
+  https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q3-update/+download/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.zip
+   
 7. Create a directory c:\net4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
   https://github.com/valoni/netmf-interpreter
   
 <p>****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
 ****He was essential in my understanding this process. Thanks for your patience Valon!
 ****This fork also contains a port for the STM32F411 NUCLEO</p>
+8.
 
 8. Create a batch file in the c:\net4_4_0 called GCC.STM32F411NUCLEO.bat with the text below 
     <p>call setenv_gcc 4.9.3 "C:\netmf\gcc_4_9_3"
