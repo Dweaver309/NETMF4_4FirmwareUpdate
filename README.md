@@ -6,13 +6,15 @@ The directory tree should look like this when the environment is complete.
 
 ![Screenshot](https://github.com/Dweaver309/NETMF4_4FirmwareUpdate/blob/master/Dir.png)
 
-1. Install Microsoft Micro Framework 4.4 SDK
- https://github.com/NETMF/netmf-interpreter/releases/download/v4.4-RTW-20-Oct-2015/MicroFrameworkSDK.MSI
-
-2. Install Microsoft Visual Studio 2015
+1. Install Microsoft Visual Studio 2015
  https://go.microsoft.com/fwlink/?LinkId=532606&clcid=0x409
   <p>***** Important Note: If you want to use Visual Basic you will need to this bug fix update
   ***** https://github.com/Dweaver309/VBFix/blob/master/README.md</p>
+
+2. Install Microsoft Micro Framework 4.4 SDK
+ https://github.com/NETMF/netmf-interpreter/releases/download/v4.4-RTW-20-Oct-2015/MicroFrameworkSDK.MSI
+
+
 3.  Create this directory C:\netmf
 
 4. Install the .NET Micro Framework Cryptographic Libraries to this directory C:\netmf\cryptic
