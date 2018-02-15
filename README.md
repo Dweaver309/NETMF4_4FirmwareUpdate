@@ -22,6 +22,7 @@ The directory tree should look like this when the environment is complete.
  <p>c:\netmf\cryptic
  c:\netmf\bin
  c:\netmf\tools</P>
+ 
  http://netmf.github.io/downloads/build-tools.zip
 
 6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
