@@ -29,9 +29,10 @@ The directory tree should look like this when the environment is complete.
 <p>****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
 ****He was essential in my understanding this process. Thanks for your patience Valon!
 ****This fork also contains a port for the STM32F411 NUCLEO</p>
-8.
+8. Download the CMSIS tools (rename the file extention ".pack" to ".zip" and unzip them in the c:\net4_4_0 
+ https://github.com/ARM-software/CMSIS_5/releases/download/5.2.0/ARM.CMSIS.5.2.0.pack
 
-8. Create a batch file in the c:\net4_4_0 called GCC.STM32F411NUCLEO.bat with the text below 
+9. Create a batch file in the c:\net4_4_0 called GCC.STM32F411NUCLEO.bat with the text below 
     <p>call setenv_gcc 4.9.3 "C:\netmf\gcc_4_9_3"
     call cd Solutions\STM32F411NUCLEO
     msbuild /t:build /p:flavor=release;memory=flash /fl
