@@ -50,7 +50,7 @@ The directory tree should look like this when the environment is complete.
 11. When the build is complete rename tinybooter.hex to tinybooter.s19 the ST DfuSe v3.0.5 File Manager will not compile the .hex file
 to a .dfu file.
  
-11. The ER_CONFIG and ER_FLASH files are located here: C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\EspruinoWifi11\bin\tinyclr.hex
+11. The ER_CONFIG and ER_FLASH files are located here: C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\STM32F411NUCLEO\bin\tinyclr.hex
 
 12. When the build is complete delete or rename the BuildOutput directory. 
 
