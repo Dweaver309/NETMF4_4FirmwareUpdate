@@ -36,10 +36,10 @@ The directory tree should look like this when the environment is complete.
 ****This fork also contains a port for the STM32F411 NUCLEO
 
 8. Create a batch file in the c:\net4_4_0 called GCC.STM32F411NUCLEO.bat with the text below 
-    call setenv_gcc 4.9.3 "C:\netmf\gcc_4_9_3"
+    <p>call setenv_gcc 4.9.3 "C:\netmf\gcc_4_9_3"
     call cd Solutions\STM32F411NUCLEO
     msbuild /t:build /p:flavor=release;memory=flash /fl
-    call %SystemRoot%\explorer.exe "C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\STM32F411NUCLEO\bin" 
+    call %SystemRoot%\explorer.exe "C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\STM32F411NUCLEO\bin" </p>
 
 9. Click on the GCC.STM32F411NUCLEO.bat file the build will start and should take around 10 minutes.
  The build files will be in the C:\netmf\netmf4_4_0\BuildOutput\THUMB2FP\GCC4.9\le\FLASH\release\STM32F411NUCLEO\bin directory.
