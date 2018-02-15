@@ -1,5 +1,9 @@
 # NETMF4_4FirmwareUpdate
 How to build NETMF 4.4 firmware
+
+IMPORTANT: The directory tree should look like this.
+![Screenshot](https://github.com/Dweaver309/SS1306/blob/Images/SS1306.JPG)
+
 1. Install Microsoft Micro Framework 4.4 SDK
  https://github.com/NETMF/netmf-interpreter/releases/download/v4.4-RTW-20-Oct-2015/MicroFrameworkSDK.MSI
 
