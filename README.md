@@ -19,9 +19,9 @@ The directory tree should look like this when the environment is complete.
 
 5. Install the binary tools to this directory C:\netmf\
  The directory will look like this after the binary tools install
- c:\netmf\cryptic
+ <p>c:\netmf\cryptic
  c:\netmf\bin
- c:\netmf\tools
+ c:\netmf\tools</P>
  http://netmf.github.io/downloads/build-tools.zip
 
  6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
