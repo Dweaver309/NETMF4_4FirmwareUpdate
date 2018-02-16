@@ -29,7 +29,7 @@ The directory tree should look like this when the environment is complete.
 7. Create a directory c:\net4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
   https://github.com/valoni/netmf-interpreter
   
- <p>****Note this is a forked https://github.com/NETMF/netmf-interpreter by Valon M Hoti
+ <p>****Note this is a forked https://github.com/valoni/netmf-interpreter by Valon M Hoti
  ****He was essential in my understanding this process. Thanks for your patience Valon!
  ****This fork also contains a port for the STM32F411 NUCLEO</p>
 
