@@ -33,7 +33,7 @@ The directory tree should look like this when the environment is complete.
  ****He was essential in my understanding this process. Thanks for your patience Valon!
  ****This fork also contains a port for the STM32F411 NUCLEO</p>
 
-8. Download the CMSIS tools (rename the file extention ".pack" to ".zip" and unzip them in the c:\net4_4_0\
+8. Download the CMSIS tools (rename the file extension ".pack" to ".zip" and unzip them in the C:\netfm\netfm4_4_0
    The directory tree should look like this C:\netfm\netfm4_4_0\CMIS\
   https://github.com/ARM-software/CMSIS_5/releases/download/5.2.0/ARM.CMSIS.5.2.0.pack
  
