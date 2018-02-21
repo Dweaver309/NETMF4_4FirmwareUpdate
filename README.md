@@ -26,7 +26,7 @@ The directory tree should look like this when the environment is complete.
 6. Create this directory c:\gcc_4_9_3 and unzip the CGG ARM compiler into the directory.
   https://launchpad.net/gcc-arm-embedded/4.9/4.9-2015-q3-update/+download/gcc-arm-none-eabi-4_9-2015q3-20150921-win32.zip
    
-7. Create a directory c:\net4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
+7. Create a directory C:\netmf\netmf4_4_0 and unzip the .NET Micro Framework Interpreter into the directory
   https://github.com/valoni/netmf-interpreter
   
  <p>****Note this is a forked https://github.com/valoni/netmf-interpreter by Valon M Hoti
